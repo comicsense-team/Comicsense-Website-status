@@ -1,14 +1,14 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: comicsense-team
+repo: Comicsense-Website-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: ComicSense
+    url: https://www.comicsense.store/
+  - name: ComicSense Checkout
+    url: https://www.comicsense.store/cart/
+  - name: ComicSense Shop
+    url: https://www.comicsense.store/shop/
   - name: Secret Site
     url: $SECRET_SITE
 
