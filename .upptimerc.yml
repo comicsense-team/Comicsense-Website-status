@@ -8,6 +8,10 @@ sites:
     url: https://www.comicsense.store/cart/
   - name: ComicSense Shop
     url: https://www.comicsense.store/shop/
+  - name: Breeze Checkout App
+    url: https://app.breeze.in/
+  - name: Breeze WooCommerce SDK
+    url: https://sdk.breeze.in/wc/tokenization/1.0.0/loader.js
 
 status-website:
   baseUrl: /Comicsense-Website-status
