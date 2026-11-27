@@ -4,19 +4,19 @@
     "url": "https://www.comicsense.store/",
     "icon": "https://icons.duckduckgo.com/ip3/www.comicsense.store.ico",
     "slug": "comic-sense",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 132,
-    "timeDay": 134,
-    "timeWeek": 132,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "status": "up",
+    "uptime": "98.51%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "98.51%",
+    "time": 127,
+    "timeDay": 60,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-11-27": 1
+      "2026-11-27": 61
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.comicsense.store/cart/",
     "icon": "https://icons.duckduckgo.com/ip3/www.comicsense.store.ico",
     "slug": "comic-sense-checkout",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 474,
-    "timeDay": 516,
-    "timeWeek": 474,
-    "timeMonth": 474,
-    "timeYear": 474,
+    "status": "up",
+    "uptime": "98.52%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
+    "time": 420,
+    "timeDay": 97,
+    "timeWeek": 420,
+    "timeMonth": 420,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2026-11-27": 0
+      "2026-11-27": 61
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.comicsense.store/shop/",
     "icon": "https://icons.duckduckgo.com/ip3/www.comicsense.store.ico",
     "slug": "comic-sense-shop",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "98.52%",
+    "uptimeDay": "95.78%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
     "time": 148,
-    "timeDay": 152,
+    "timeDay": 86,
     "timeWeek": 148,
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2026-11-27": 0
+      "2026-11-27": 61
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 997,
-    "timeDay": 1007,
-    "timeWeek": 997,
-    "timeMonth": 997,
-    "timeYear": 997,
+    "time": 969,
+    "timeDay": 913,
+    "timeWeek": 969,
+    "timeMonth": 969,
+    "timeYear": 969,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 72,
-    "timeWeek": 464,
-    "timeMonth": 464,
-    "timeYear": 464,
+    "time": 338,
+    "timeDay": 87,
+    "timeWeek": 338,
+    "timeMonth": 338,
+    "timeYear": 338,
     "dailyMinutesDown": {}
   }
 ]
